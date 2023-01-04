@@ -1,2 +1,6 @@
 # Random-integers-
-Obtaining random integers in JS
+
+
+function getRandom() {
+ return Math.random();
+}
